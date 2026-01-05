@@ -1,0 +1,16 @@
+**/target/
+*.iml
+*.class
+
+.idea/
+!.idea/misc.xml
+!.idea/encodings.xml
+
+*.log
+*.tmp
+
+.DS_Store
+Thumbs.db
+
+APDescription.txt
+MTPs-*.txt
